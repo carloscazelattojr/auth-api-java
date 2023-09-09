@@ -21,7 +21,7 @@ Branch `main` contém o projeto inicial antes das implementações.
 Branch `add-securyt` contém o projeto final já com as implementações realizadas.
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/auth-api.git
+git clone https://github.com/carloscazelattojr/auth-api-java.git
 ```
 
 
